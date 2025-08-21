@@ -53,6 +53,8 @@ The game logic is the one we all know:
 * If you clear the field, you win.
 * Numbers indicate how many mines are present in the 8 surrounding cells.
 
+<img width="1051" height="472" alt="ReadmeImage5" src="https://github.com/user-attachments/assets/679ca68f-97eb-4628-a456-e7a2fb7388ba" />
+
 ---
 
 # About AI / LLM
